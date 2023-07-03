@@ -1,0 +1,33 @@
+{
+    "name": "tulparstudyo/teknopazar",
+    "type": "library",
+    "description": "Pazaryerleri Kütüphanesi.",
+    "keywords": ["teknopazar", "Pazaryerleri", "N11", "Hepsiburada", "Trendyol", "Çiçeksepeti"],
+    "license": "MIT",
+        "authors": [
+        {
+            "name": "tulparstd@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+
+    },
+    "autoload-dev": {
+
+    },
+    "scripts": {
+
+    },
+    "extra": {
+
+    },
+    "config": {
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
