@@ -12,7 +12,9 @@
     "require": {
     },
     "require-dev": {
-
+        "psr-4": {
+            "Teknopazar\\": "src/"
+        }
     },
     "autoload": {
 
